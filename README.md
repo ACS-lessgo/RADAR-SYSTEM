@@ -1,4 +1,8 @@
 # RADAR-SYSTEM
-A radar system using Arduino and Ultra-sonic sensor.
-1.prequisites arduino ide and processing  application.
-2.run both files for GUI.
+## A radar system using Arduino and Ultra-sonic sensor.
+---
+## Prequisites 
+- arduino ide 
+- processing  application.
+---
+## Run both files for GUI.
